@@ -1,0 +1,70 @@
+h1 {
+  text-align: center;
+}
+
+.thor {
+  float: left;
+  text-align: center;
+}
+
+.spot {
+  float: left;
+  text-align: center;
+}
+
+.butch {
+  float: left;
+  text-align: center;
+}
+
+.zeus {
+  float: left;
+  text-align: center;
+}
+
+.thor h2 {
+  color: green;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+.thor p {
+  color: orange;
+  font-family: Verdana, Charcoal, sans-serif;
+}
+
+.spot h2 {
+  color: green;
+  font-family: Lucida, Grande, serif;
+}
+
+.spot p {
+  color: orange;
+  font-family: Lucida Console, Geneva, sans-serif;
+}
+
+.butch h2 {
+  color: green;
+  font-family: Impact, Console, monospace;
+}
+
+.butch p {
+  color: orange;
+  font-family: Gadget, Helvetica, sans-serif;
+}
+
+.zeus h2 {
+  color: green;
+  font-family: Trenuchet MS, cursive, monospace;
+}
+
+.zeus p {
+  color: orange;
+  font-family: Courier New, Courier, sans-serif;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
